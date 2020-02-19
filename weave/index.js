@@ -1,6 +1,6 @@
 //complete weave/queue.js
 //impelement the 'weave ' function.Weave receives two queus as arguments 
-//and comines the contents of each into a new, third queue
+//and combines the contents of each into a new, third queue
 //The third queue shoild contain the *alternative* content of two queues
 //THe function should handle queues of different lengths
 //without inserting "undefined" into the new one
