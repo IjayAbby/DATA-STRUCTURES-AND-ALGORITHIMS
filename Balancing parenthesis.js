@@ -1,4 +1,4 @@
-Given a string consists os left and right parenthesis
+Given a string consists of left and right parenthesis
 
 function getMin(s) {
     // Write your code here
