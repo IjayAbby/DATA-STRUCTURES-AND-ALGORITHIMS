@@ -26,8 +26,10 @@ let user = {
   
   function addFriend(userObj, friend) {
     // Only change code below this line
+
     userObj.data.friends.push(friend);
     return userObj.data.friends;
+    
     // Only change code above this line
   }
   
