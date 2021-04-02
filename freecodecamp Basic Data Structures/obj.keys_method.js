@@ -4,7 +4,6 @@
 
 // Finish writing the getArrayOfUsers function so that it returns an array containing all the properties in the object it receives as an argument.
 
-
 let users = {
     Alan: {
       age: 27,
